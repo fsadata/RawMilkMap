@@ -1,0 +1,12 @@
+name: RawMilkMap2
+title: RawMilkMap2
+username:
+account: anneburns
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 235361
+bundleId: 1074666
+url: https://anneburns.shinyapps.io/RawMilkMap2/
+when: 1510660010.2695
+asMultiple: FALSE
+asStatic: FALSE

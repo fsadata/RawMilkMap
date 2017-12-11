@@ -1,0 +1,13 @@
+name: rawmilkmap2
+title: RawMilkMap2
+username:
+account: foodstandards
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 246268
+bundleId: 1123258
+url: https://foodstandards.shinyapps.io/rawmilkmap2/
+when: 1512744569.77541
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: list-raw-drinking-milk-producers-2.csv

@@ -1,0 +1,12 @@
+name: rawmilkmap22
+title: RawMilkMap2
+username:
+account: foodstandards
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 246274
+bundleId: 1123372
+url: https://foodstandards.shinyapps.io/rawmilkmap22/
+when: 1512747368.83784
+asMultiple: FALSE
+asStatic: FALSE
